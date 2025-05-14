@@ -1,7 +1,4 @@
 # tradegyaan
-git init
-git remote add origin https://github.com/your-username/tradegyaan-website.git
-import React from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { motion } from "framer-motion";
